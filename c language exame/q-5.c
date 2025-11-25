@@ -2,7 +2,7 @@
 
 int main() {
     int i, j;
-    int rows = 5; /
+    int rows = 5; 
     int values[] = {100, 81, 64, 49, 36}; 
     
     printf("Pattern:\n");
@@ -15,4 +15,5 @@ int main() {
     }
     
     return 0;
+
 }
